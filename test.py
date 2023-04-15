@@ -1,6 +1,8 @@
 import openai
 # openai.api_key = "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"
 
+openai.organization = "org-jM1OZrW8AwJyksX3MzTMPhmG"
+
 # Newly Generated API KEY
 openai.api_key = "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"
 
