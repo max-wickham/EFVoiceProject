@@ -1,5 +1,8 @@
 import openai
-openai.api_key = "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"
+# openai.api_key = "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"
+
+# Newly Generated API KEY
+openai.api_key = "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"
 
 # list models
 models = openai.Model.list()
